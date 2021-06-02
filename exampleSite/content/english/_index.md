@@ -62,7 +62,7 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Ready to get started?
+  title: Join Early Bird
   image: images/cta.svg
   content: ''
   button:
