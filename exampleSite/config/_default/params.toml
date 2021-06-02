@@ -1,6 +1,6 @@
 author = "Andre Bonne"
 contact_form_action = "#"
-description = "This is meta description"
+description = "SchwertShild Security System"
 logo = "images/logomakr-8hqpyc.png"
 logo_width = "200px"
 [navigation_button]
@@ -8,8 +8,8 @@ enable = true
 label = "Get Started"
 link = "contact"
 [preloader]
-enable = false
-preloader = ""
+enable = true
+preloader = "Sicherheitssystem wird geladen ..."
 [[social]]
 icon = "fab fa-facebook"
 link = "#"
