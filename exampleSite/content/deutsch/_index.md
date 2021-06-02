@@ -50,14 +50,12 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Es ist ein privates Informations- und Cloudunternehmen aus der EU
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Wir sorgen mit der Umsetzung von Datenschutzgesetzten nach Europäischen
+      Recht dafür, Daten und Persönliche Informationen (PII) auf Server in der EU
+      zu speichern und entsprechend zu verschlüsseln.
     button:
       enable: true
       label: Check it out
