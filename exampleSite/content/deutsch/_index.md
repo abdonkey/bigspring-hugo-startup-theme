@@ -11,7 +11,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Service und Kundenorientiert
   feature_item:
   - name: Open Source Code
     icon: fas fa-code
