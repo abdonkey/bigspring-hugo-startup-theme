@@ -56,7 +56,7 @@ service:
       zu speichern und entsprechend zu verschlüsseln.
     button:
       enable: true
-      label: Check it out
+      label: Mehr Erfahren
       link: "#"
 screenshot:
   enable: true
