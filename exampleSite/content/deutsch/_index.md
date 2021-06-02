@@ -1,13 +1,13 @@
 ---
 banner:
-  title: Ein Security System für den privaten und <br> professionellen Einsatz
+  title: Ein Security System für den privaten <br> und professionellen Einsatz
   image: images/banner-art.svg
   content: Die Sicherheit unserer Geräte spielt in der Digitalisierung eine wichtige
     Rolle <br> wir haben einen Schutzschild entwickelt, welcher Transparenz und Vertrauen
     in einem der größten Netzwerke der Welt schafft - dem World Wide Web
   button:
     enable: true
-    label: Contact With Us
+    label: Kontakt
     link: contact
 feature:
   enable: true
