@@ -64,13 +64,12 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Ready to get started?
+  title: Startklar um das Netzwerk zu schützen?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: ''
   button:
     enable: true
-    label: Contact Us
+    label: Kontaktieren
     link: contact
 
 ---
