@@ -34,29 +34,24 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It comes with a simple and user-friendly dashboard to inform about the
-      most important information and events.
+  - title: User-friendly dashboard and advanced opportunities.
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: It comes with a simple and user-friendly dashboard to inform about the
+      most important information and events. The dashboard is developed to serve beginner
+      and advanced user to satisfy their needs to network security.
     button:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: It is a privately owned Information and cyber security company from EU
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: We ensure with the implementation of data protection laws under European
+      law to store data and Personal Information (PII) on servers in the EU and encrypt
+      them accordingly.
     button:
       enable: true
       label: Check it out
@@ -69,8 +64,7 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: ''
   button:
     enable: true
     label: Contact Us
