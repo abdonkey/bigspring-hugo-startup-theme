@@ -66,10 +66,11 @@ call_to_action:
   enable: true
   title: Startklar um das Netzwerk zu schützen?
   image: images/cta.svg
-  content: ''
+  content: Mit dem Early Bird Zugang erhältst du Features und Updates als Erster.
+    Außerdem erhältst du auf die Features Rabatt und weitere Vorteile.
   button:
     enable: true
-    label: Kontaktieren
+    label: Erhalte Zugang zum Early Bird
     link: contact
 
 ---
