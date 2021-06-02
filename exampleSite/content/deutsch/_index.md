@@ -35,20 +35,18 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Es kommt mit einem einfachen und Nutzerfreundlichen Dashboard, um über
-      die wichtigsten Informationen und Ereignisse zu informieren.
+  - title: Benutzerfreundliches Dashboard und erweiterte Möglichkeiten.
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Es verfügt über ein einfaches und benutzerfreundliches Dashboard, das
+      über die wichtigsten Informationen und Ereignisse informiert. Das Dashboard
+      wurde entwickelt, um Anfängern und fortgeschrittenen Anwendern zu dienen und
+      ihre Bedürfnisse an die Netzwerksicherheit zu erfüllen.
     button:
       enable: true
-      label: Check it out
+      label: Mehr Erfahren
       link: "#"
   - title: Es ist ein privates Informations- und Cloudunternehmen aus der EU
     images:
