@@ -4,6 +4,6 @@ googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "Schwertshild Security in a Box"
+title = "Schwertshild Security System"
 [markup.goldmark.renderer]
 unsafe = true
