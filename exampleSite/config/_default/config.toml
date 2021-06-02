@@ -1,4 +1,4 @@
-baseURL = "http://schwertshild-test.netlify.app/"
+baseURL = "https://schwertshild-test.netlify.app/"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
