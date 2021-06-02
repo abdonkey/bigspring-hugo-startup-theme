@@ -35,7 +35,8 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It comes with a simple and focused dashboard to increase the outcome.
+  - title: Es kommt mit einem einfachen und Nutzerfreundlichen Dashboard, um über
+      die wichtigsten Informationen und Ereignisse zu informieren.
     images:
     - images/service-1.png
     - images/service-2.png
