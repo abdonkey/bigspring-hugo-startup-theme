@@ -9,7 +9,7 @@ label = "Get Started"
 link = "contact"
 [preloader]
 enable = true
-preloader = "/images/"
+preloader = "/images/logomakr-8hqpyc.png"
 [[social]]
 icon = "fab fa-facebook"
 link = "#"
