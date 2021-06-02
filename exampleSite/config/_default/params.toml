@@ -9,7 +9,7 @@ label = "Get Started"
 link = "contact"
 [preloader]
 enable = true
-preloader = "Sicherheitssystem wird geladen ..."
+preloader = "/images/"
 [[social]]
 icon = "fab fa-facebook"
 link = "#"
