@@ -5,7 +5,7 @@ logo = "/images/logomakr-8hqpyc.png"
 logo_width = "200px"
 [navigation_button]
 enable = true
-label = "Loslegen"
+label = "Get Early Bord Access"
 link = "contact"
 [preloader]
 enable = true
