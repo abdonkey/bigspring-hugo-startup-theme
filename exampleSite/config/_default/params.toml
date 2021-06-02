@@ -5,7 +5,7 @@ logo = "/images/logomakr-8hqpyc.png"
 logo_width = "200px"
 [navigation_button]
 enable = true
-label = "Get Early Bord Access"
+label = "Early Bird Access"
 link = "contact"
 [preloader]
 enable = true
