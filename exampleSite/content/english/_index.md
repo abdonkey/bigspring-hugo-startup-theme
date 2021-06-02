@@ -1,36 +1,36 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: A security system for private <br> and professional use
   image: images/Sicherheit-Internet-Device.png
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: |-
+    The security of our devices plays an important role in digitalization
+    we have developed a protective shield that creates transparency and trust in one of the largest networks in the world - the World Wide Web
   button:
     enable: true
     label: Contact With Us
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Service and Customer Oriented
   feature_item:
-  - name: Clean Code
+  - name: Open Source Code
     icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Open source code developed by the best developer communities
   - name: Object Oriented
     icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Applications are designed object-oriented
   - name: 24h Service
     icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
+    content: Technical support develops 24h solutions to problems
+  - name: Value Added
     icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
+    content: The product is developed with cost-benefit analyses
+  - name: Community-Test
     icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Features are tested with the help of communities and experts
   - name: Cloud Support
     icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Part of the backend is operated with cloud infrastructure
 service:
   enable: true
   service_item:
