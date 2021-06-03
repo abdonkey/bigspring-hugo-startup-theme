@@ -1,6 +1,6 @@
 ---
 banner:
-  title: A security system for private <br> and professional use
+  title: Your security system for private <br> and advanced use
   image: images/Sicherheit-Internet-Device.png
   content: |-
     The security of our devices plays an important role in digitalization
@@ -62,12 +62,13 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Join Early Bird
+  title: Ready to protect the network?
   image: images/cta.svg
-  content: ''
+  content: With Early Bird access, you'll be the first to receive features and updates.
+    You also get discounts on features and other benefits.
   button:
     enable: true
-    label: Contact Us
+    label: Join Early Bird
     link: contact
 
 ---
